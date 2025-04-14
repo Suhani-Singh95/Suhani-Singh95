@@ -37,7 +37,7 @@
 
 - 🧠 AI Chatbot for D&D Character Generation
 - ☁️ AWS EC2 Auto Backup System  
-- 📲 Face Condition Detection App
+- 📲 Face Condition Detection App(https://github.com/Suhani-Singh95/face-condition-detection)
 
 ---
 
