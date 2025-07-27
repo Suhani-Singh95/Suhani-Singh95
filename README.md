@@ -2,7 +2,7 @@
 
 🎓 B.Tech CSE @ Lovely Professional University  
 🎓 B.Sc Data Science @ IIT Madras  
-💡 Passionate about Open Source, AI/ML, and Flutter  
+💡 Passionate about Android Development, AI/ML, and Flutter  
 
 ---
 
@@ -36,6 +36,7 @@
 ## 💻 Projects
 
 - 🧠 AI Chatbot for D&D Character Generation
+- 🌱 Health Management App
 - ☁️ AWS EC2 Auto Backup System  
 - 📲 Face Condition Detection App(https://github.com/Suhani-Singh95/face-condition-detection)
 
